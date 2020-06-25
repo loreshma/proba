@@ -8,5 +8,6 @@ int main()
     cout << "Hello, World!" << endl;
     cout << "qwerty" << endl;
     cout << "master" << endl;
+    int a;
     return 0;
 }
