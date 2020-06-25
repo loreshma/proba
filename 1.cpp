@@ -7,5 +7,6 @@ int main()
 {
     cout << "Hello, World!" << endl;
     cout << "qwerty" << endl;
+    cout << "master" << endl;
     return 0;
 }
